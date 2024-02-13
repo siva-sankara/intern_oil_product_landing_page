@@ -46,8 +46,8 @@ function App() {
       {
         urlpath === '/order' ?(<div></div>):(<div><Footer /><CpoyRight /></div>)
       }
-      {/* <Footer /> */}
-      {/* <CpoyRight /> */}
+       <Footer /> 
+       <CpoyRight /> 
     </div>
   );
 }
